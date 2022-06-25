@@ -1,4 +1,4 @@
-          GUVI: Zen Class — Part 1: Find the culprits and nail them — debugging javascript
+GUVI: Zen Class — Part 1: Find the culprits and nail them — debugging javascript
 
 1.Fix the below to alert Guvi geek
 let admin=9, fname=10.5; 
@@ -106,7 +106,12 @@ console.log(msg); //hi
 
 because string 0("0") is cnsidered true 
 
-           Part 2 : Find the culprits and nail them — debugging javascript loops
+
+
+
+Part 2 : Find the culprits and nail them — debugging javascript loops
+
+
 
 1.Write a code to print the numbers in the array
 Output: 1234567891011
@@ -222,7 +227,9 @@ console.log(str_all);
 
 
 
-         GUVI: Zen Class — Part 3: Find the culprits and nail them — debugging javascript
+GUVI: Zen Class — Part 3: Find the culprits and nail them — debugging javascript
+
+
 
 1.aa = (f,s,t) => {
  //let f,s,t;
