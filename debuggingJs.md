@@ -1,4 +1,4 @@
-GUVI: Zen Class — Part 1: Find the culprits and nail them — debugging javascript
+GUVI : Zen Class — Part 1: Find the culprits and nail them — debugging javascript
 
 1.Fix the below to alert Guvi geek
 let admin=9, fname=10.5; 
